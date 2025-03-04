@@ -1,16 +1,27 @@
-## Hi there 👋
+# What you need to know:
 
-<!--
-**BlueCrafter6/BlueCrafter6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Self-Taught Developer | Future Software Engineer**  
+👦 **13 y/o** | Building & breaking things in **HTML, CSS, JS, Lua**  
+💡 Passionate about **web dev, game dev & gaming**  
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools  
+![HTML](https://img.shields.io/badge/Code-HTML-orange?style=flat-square&logo=html5)  
+![CSS](https://img.shields.io/badge/Code-CSS-blue?style=flat-square&logo=css3)  
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?style=flat-square&logo=javascript)  
+![Lua](https://img.shields.io/badge/Code-Lua-blue?style=flat-square&logo=lua)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Current Projects  
+- 🎮 **Roblox Game Dev** (BlueFalls Mall, etc.)  
+- 🌐 **Web Development Projects**
+
+## 🌱 Predicted Future Paths
+- JavaScript frameworks like **React**  
+- Backend development with **Node.js**  
+
+## 📫 Socials
+[YouTube](https://youtube.com/@bluecrafter6)<br>
+[Website](https://blue6crafter.web.app)
+
+---
+
+💡 *"The best way to predict the future is to create it."*  
