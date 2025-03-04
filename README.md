@@ -1,5 +1,5 @@
 # What you need to know:
-## Find my repos [here](../../repositories)
+## Find my repos [here](../../../repositories)
 
 🚀 **Self-Taught Developer | Future Software Engineer**  
 👦 **13 y/o** | Building & breaking things in **HTML, CSS, JS, Lua**  
