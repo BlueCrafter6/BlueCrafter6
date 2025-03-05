@@ -2,7 +2,7 @@
 ## ℹ️ Find my repos [here](../../../?tab=repositories)
 
 🚀 **Self-Taught Developer | Future Software Engineer**  
-👦 **13 y/o** | Building & breaking things in **HTML, CSS, JS, Lua**  
+👨‍💻 Building & breaking things in **HTML, CSS, JS, Lua**  
 💡 Passionate about **web dev, game dev & gaming**  
 
 ## 🔧 Technologies & Tools  
